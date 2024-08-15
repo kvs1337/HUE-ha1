@@ -1,0 +1,15 @@
+# MAC OS
+.DS_Store
+
+# Python
+__pycache__
+/.venv
+
+# VSCode
+/.vscode/launch.json
+
+# Ruff cache
+/.ruff_cache
+
+# Run config
+/config
